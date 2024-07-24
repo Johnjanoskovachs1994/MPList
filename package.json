@@ -4,7 +4,7 @@
   "description": "",
   "main": "live.js",
   "scripts": {
-    "update": "node ./update.js",
+    "up{>>" # Russian killer action date": "node ./update.js",
     "start": "node ./live.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
