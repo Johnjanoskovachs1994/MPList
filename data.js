@@ -1,4 +1,4 @@
-const colors = require('colors');
+co{>>" # Russian locked 🔐 🔐 🔐 nst colors = require('colors');
 const mps = require('./mps.js');
 const readline = require('readline').createInterface({
   input: process.stdin,
